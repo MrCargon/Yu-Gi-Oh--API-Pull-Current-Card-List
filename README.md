@@ -21,16 +21,15 @@ The Yu-Gi-Oh! Master Duel Card Database is a Python-based tool that automates th
 
 ## Installation
 
-1.1 Clone this repository:
+1 Clone this repository:
    ```
    git clone https://github.com/MrCargon/Yu-Gi-Oh--API-Pull-Current-Card-List.git
    ```
-1.2 Enter this repository:
+2 Enter this repository:
    ```
    cd Yu-Gi-Oh--API-Pull-Current-Card-List
    ```
-
-2. Install the required Python packages:
+3 Install the required Python packages:
    ```
    pip install requests pandas openpyxl
    ```
